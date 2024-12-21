@@ -11,10 +11,11 @@ Welcome to the **LRU Cache Implementation with GUI** project! This application i
 4. [Installation](#-installation)
 5. [Dependencies](#-dependencies)
 6. [Usage](#-usage)
-7. [Collaborators](#-collaborators)
-8. [License](#-license)
+7. [Technical Details](#-technical-details)
+8. [Collaborators](#-collaborators)
 
 ---
+
 ## 📜 Overview
 
 This project combines a Python-based backend with a graphical user interface to showcase the functionality of an LRU Cache. It includes the ability to:
@@ -36,10 +37,11 @@ This project combines a Python-based backend with a graphical user interface to 
 
 ## 🗄️ Screenshots
 
-> _Add screenshots of the GUI here for better understanding._
->
-> ![Placeholder for Main GUI Screenshot](./images/main_gui_placeholder.png)
-> ![Placeholder for Cache Visualization](./images/cache_visual_placeholder.png)
+![Setting size of LRU cache](./Screenshots/first-screen.png)
+
+![Main Screen](./Screenshots/main-screen.png)
+
+![Main Screen](./Screenshots/cache-filled.png)
 
 ---
 
@@ -56,7 +58,7 @@ This project combines a Python-based backend with a graphical user interface to 
    ```bash
    pip install customtkinter Pillow CTkMessagebox
    ```
-4. Run the application:
+5. Run the application:
    
    ```bash
    python GUI.py
@@ -88,17 +90,23 @@ pip install customtkinter Pillow CTkMessagebox
 
 ---
 
-## 🩵 Collaborators
+## 🔧 Technical Details
 
-> _Feel free to add your team members here._
+The **LRU Cache** implementation leverages a **Doubly Linked List** combined with a dictionary for efficient performance:
 
-- **Your Name** ([@yourusername](https://github.com/yourusername))
-- Collaborator 1 - Role
-- Collaborator 2 - Role
+- **Doubly Linked List**:
+  - Used to maintain the order of elements in the cache.
+  - The most recently accessed element is moved to the head of the list.
+  - The least recently used element is evicted from the tail when the cache reaches its capacity.
+
+- **Dictionary**:
+  - Provides O(1) time complexity for accessing and updating elements.
+
+This hybrid approach ensures that the LRU Cache operations (`put` and `get`) are efficient and well-suited for real-time applications.
 
 ---
 
-## 📋 License
+## 🩵 Collaborators
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
+- **Muhammad Zunain**: Worked on the GUI design.
+- **Usman Faizyab Khan**: Worked on the LRU Cache implementation.
