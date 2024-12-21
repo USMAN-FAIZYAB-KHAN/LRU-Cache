@@ -106,7 +106,7 @@ This hybrid approach ensures that the LRU Cache operations (`put` and `get`) are
 
 ---
 
-## 🩵 Collaborators
+## 🩵 Contributors
 
 - **[Muhammad Zunain](https://github.com/Muhammad-Zunain)**: Worked on the GUI design.
 - **[Usman Faizyab Khan](https://github.com/USMAN-FAIZYAB-KHAN)**: Worked on the LRU Cache implementation.
