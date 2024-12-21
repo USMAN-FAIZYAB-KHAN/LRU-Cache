@@ -51,7 +51,7 @@ This project combines a Python-based backend with a graphical user interface to 
    
    ```bash
    git clone https://github.com/USMAN-FAIZYAB-KHAN/LRU-Cache.git
-   cd lru-cache-gui
+   cd LRU-Cache
    ```
 3. Install the required dependencies:
    
@@ -108,8 +108,8 @@ This hybrid approach ensures that the LRU Cache operations (`put` and `get`) are
 
 ## 🩵 Collaborators
 
-- **[Muhammad Zunain](https://github.com/muhammadzunain)**: Worked on the GUI design.
-- **[Usman Faizyab Khan](https://github.com/usmanfaizyabkhan)**: Worked on the LRU Cache implementation.
+- **[Muhammad Zunain](https://github.com/Muhammad-Zunain)**: Worked on the GUI design.
+- **[Usman Faizyab Khan](https://github.com/USMAN-FAIZYAB-KHAN)**: Worked on the LRU Cache implementation.
 
 
 
