@@ -5,14 +5,14 @@ Welcome to the **LRU Cache Implementation with GUI** project! This application i
 ---
 
 ## 🖋️ Table of Contents
-1. [Overview](#---overview)
-2. [Features](#features)
-3. [Screenshots](#screenshots)
-4. [Installation](#installation)
-5. [Dependencies](#dependencies)
-6. [Usage](#usage)
-7. [Collaborators](#collaborators)
-8. [License](#license)
+1. [Overview](#-overview)
+2. [Features](#-features)
+3. [Screenshots](#-screenshots)
+4. [Installation](#-installation)
+5. [Dependencies](#-dependencies)
+6. [Usage](#-usage)
+7. [Collaborators](#-collaborators)
+8. [License](#-license)
 
 ---
 ## 📜 Overview
