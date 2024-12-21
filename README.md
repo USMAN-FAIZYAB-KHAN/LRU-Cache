@@ -12,7 +12,7 @@ Welcome to the **LRU Cache Implementation with GUI** project! This application i
 5. [Dependencies](#-dependencies)
 6. [Usage](#-usage)
 7. [Technical Details](#-technical-details)
-8. [Contributors](#-team-members)
+8. [Team Members](#-team-members)
 
 ---
 
