@@ -12,7 +12,7 @@ Welcome to the **LRU Cache Implementation with GUI** project! This application i
 5. [Dependencies](#-dependencies)
 6. [Usage](#-usage)
 7. [Technical Details](#-technical-details)
-8. [Contributors](#-collaborators)
+8. [Contributors](#-team-members)
 
 ---
 
@@ -106,7 +106,7 @@ This hybrid approach ensures that the LRU Cache operations (`put` and `get`) are
 
 ---
 
-## 🤝 Contributors
+## 🤝 Team Members
 
 - **[Muhammad Zunain](https://github.com/Muhammad-Zunain)**: Worked on the GUI design.
 - **[Usman Faizyab Khan](https://github.com/USMAN-FAIZYAB-KHAN)**: Worked on the LRU Cache implementation.
